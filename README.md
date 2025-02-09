@@ -1,2 +1,2 @@
 # html-portfolio
-First website
+First website (course)
